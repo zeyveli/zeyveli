@@ -2,7 +2,7 @@
 I am a senior aeronautical engineering major from Istanbul Technical University. 
 
 I work on the aerodynamic design and manufacturing of mini UAVs in a project team named [ITU Albatros](https://www.linkedin.com/company/itualbatros/) :small_airplane:.
-I’m interested in aeronautics, astrophysics, graphical design, and.. martial arts :cartwheeling:.
+I’m interested in aeronautics, astrophysics, graphical design, and martial arts :cartwheeling:.
 
 ### Skills :computer:
 MATLAB, Xflr5, Catia, Photoshop, Illustrator, Autodesk Sketchbook
