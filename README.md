@@ -5,7 +5,7 @@ I work on the aerodynamic design and manufacturing of mini UAVs in a project tea
 I’m interested in aeronautics, astrophysics, graphical design, and martial arts :cartwheeling:.
 
 ### Skills :computer:
-MATLAB, Xflr5, Catia, Photoshop, Illustrator, Autodesk Sketchbook
+MATLAB, Xflr5, Catia, Photoshop, Illustrator
 
 I’m currently learning C, Simulink, Fusion 360, OpenFOAM and Ansys Fluent
 
