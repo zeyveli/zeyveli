@@ -1,7 +1,5 @@
 ## Hi, I’m Elif Zeyveli 👋 
-I am a senior aeronautical engineering major from Istanbul Technical University. 
-
-I work on the aerodynamic design and manufacturing of mini UAVs in a project team named [ITU Albatros](https://www.linkedin.com/company/itualbatros/) :small_airplane:.
+I am an aerospace engineer working as a researcher in Istanbul Technical University. :small_airplane:.
 I’m interested in aeronautics, astrophysics, graphical design, and martial arts :cartwheeling:.
 
 ### Skills :computer:
